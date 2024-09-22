@@ -1,2 +1,2 @@
 # Loopy
- A king of basic social media :)
+ A new of basic social media :)
